@@ -8,6 +8,10 @@
   --background-end-rgb: 255, 255, 255;
 }
 
+html {
+  font-size: 21px;
+}
+
 @media (prefers-color-scheme: dark) {
   :root {
     --foreground-rgb: 255, 255, 255;
@@ -16,12 +20,10 @@
   }
 }
 
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+@layer utilities {
+  .hamburger-toggle {
+    @apply [&>div]:h-0 [&>div]:bg-white [&>div::before]:translate-y-0
+    [&>div::before]:rotate-45 [&>div::after]:translate-y-0 
+    [&>div::after]:-rotate-45
+  }
 }
