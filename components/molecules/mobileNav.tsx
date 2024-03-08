@@ -11,8 +11,8 @@ const toggleMobileMenu = () => {
 
 function MobileNav() {
   return (
-    <div className="w-full">
-      <div id="toggleMenu" className="grid ml-auto w-8 place-content-center h-6 hover:cursor-pointer md:hidden"
+    <div className="w-full md:hidden">
+      <div id="toggleMenu" className="grid ml-auto w-8 place-content-center h-6 hover:cursor-pointer"
         onClick={toggleMobileMenu}>
         <div className="
             w-8 
