@@ -17,7 +17,7 @@ function Header() {
           <MobileNav />
 
           <div className="space-x-4 hidden md:block">
-            <Link href={'https://wa.me/01776274267'} target="_blank" className="inline-block">
+            <Link href={'https://wa.me/491776274267'} target="_blank" className="inline-block">
               <Image src={'/img/icons/whatsapp.svg'} alt="WhatsApp" width={32} height={32} />
             </Link>
             <Link href={'https://www.instagram.com/explore/locations/109672371220015/franzis-fabelhafte-tortchen/'} target="_blank" className="inline-block">
