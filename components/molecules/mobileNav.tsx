@@ -12,17 +12,17 @@ const toggleMobileMenu = () => {
 function MobileNav() {
   return (
     <div className="w-full md:hidden">
-      <div id="toggleMenu" className="grid ml-auto w-8 place-content-center h-6 hover:cursor-pointer"
+      <div id="toggleMenu" className="grid ml-auto w-6 place-content-center h-4 hover:cursor-pointer"
         onClick={toggleMobileMenu}>
         <div className="
-            w-8 
-            h-1 
+            w-6 
+            h-0.5 
             bg-black 
             rounded-full 
             before:content-[''] 
             before:absolute 
-            before:w-8
-            before:h-1 
+            before:w-6
+            before:h-0.5 
             before:bg-black 
             before:rounded-full
             before:-translate-y-2
@@ -30,8 +30,8 @@ function MobileNav() {
             before:duration-150
             after:content-[''] 
             after:absolute 
-            after:w-8
-            after:h-1 
+            after:w-6
+            after:h-0.5 
             after:bg-black 
             after:rounded-full
             after:translate-y-2
@@ -41,7 +41,7 @@ function MobileNav() {
         >
         </div>
       </div>
-      <div className="hidden absolute w-full px-8 md:block md:w-auto bg-white/95 top-12 bottom-0 left-0" id="navbarMobile">
+      <div className="hidden absolute w-full px-2 md:block md:w-auto bg-white/95 top-12 bottom-0 left-0" id="navbarMobile">
         <ul className="text-right py-2 font-bold text-xl border-b-2">
           <li>
             <Link href={'/'}>Home</Link>

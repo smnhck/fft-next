@@ -5,7 +5,7 @@ import MobileNav from "./mobileNav";
 function Header() {
   return (
     <header>
-      <div className="px-8 border-b-4 border-black-10">
+      <div className="px-2 md:px-8 border-b-4 border-black-10">
         <div className="flex items-center h-12 justify-between">
           <div className="space-x-4 hidden md:block">
             <Link href={'/'}>Home</Link>
