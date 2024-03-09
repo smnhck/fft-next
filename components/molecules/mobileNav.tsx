@@ -64,7 +64,7 @@ function MobileNav() {
         </ul>
 
         <div className="space-x-4 text-right py-2">
-          <Link href={'https://wa.me/491776274267'} target="_blank" className="inline-block">
+          <Link href={'https://wa.me/491776274267?text=Hallo%20liebe%20Franzi%2C%20ich%20interessiere%20mich%20f%C3%BCr%20eine%20deiner%20Torten'} target="_blank" className="inline-block">
             <Image src={'/img/icons/whatsapp.svg'} alt="WhatsApp" width={48} height={48} />
           </Link>
           <Link href={'https://www.instagram.com/explore/locations/109672371220015/franzis-fabelhafte-tortchen/'} target="_blank" className="inline-block">
