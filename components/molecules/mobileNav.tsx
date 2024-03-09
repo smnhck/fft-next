@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import Image from "next/image";
+import { greatVibes } from "@/app/fonts";
 
 const toggleMobileMenu = () => {
   (document.querySelector('#toggleMenu'))?.classList.toggle("hamburger-toggle");
@@ -11,37 +12,42 @@ const toggleMobileMenu = () => {
 
 function MobileNav() {
   return (
-    <div className="w-full md:hidden">
-      <div id="toggleMenu" className="grid ml-auto w-6 place-content-center h-4 hover:cursor-pointer"
-        onClick={toggleMobileMenu}>
-        <div className="
-            w-6 
+    <div className="w-full md:hidden flex">
+
+      <Link href="/" className={`${greatVibes.className} text-primary text-basel sm:text-xl`}>Franzis fabelhafte Törtchen</Link>
+
+      <div className="ml-auto my-auto">
+        <div id="toggleMenu" className="w-4 h-3 grid place-content-center hover:cursor-pointer"
+          onClick={toggleMobileMenu}>
+          <div className="
+            w-4 
             h-0.5 
             bg-black 
             rounded-full 
             before:content-[''] 
             before:absolute 
-            before:w-6
+            before:w-4
             before:h-0.5 
             before:bg-black 
             before:rounded-full
-            before:-translate-y-2
+            before:-translate-y-1
             before:transition-all
             before:duration-150
             after:content-[''] 
             after:absolute 
-            after:w-6
+            after:w-4
             after:h-0.5 
             after:bg-black 
             after:rounded-full
-            after:translate-y-2
+            after:translate-y-1
             after:transition-all
             after:duration-150
             "
-        >
+          >
+          </div>
         </div>
       </div>
-      <div className="hidden absolute w-full px-2 md:block md:w-auto bg-white/95 top-12 bottom-0 left-0" id="navbarMobile">
+      <div className="hidden absolute w-full px-2 md:block md:w-auto bg-white/95 top-12 bottom-0 left-0 overflow-auto" id="navbarMobile">
         <ul className="text-right py-2 font-bold text-xl border-b-2">
           <li>
             <Link href={'/'}>Home</Link>
