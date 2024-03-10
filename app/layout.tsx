@@ -2,6 +2,8 @@ import type { Metadata } from 'next'
 import './globals.css'
 import Header from '../components/molecules/header'
 import { overlock } from './fonts'
+import { SpeedInsights } from "@vercel/speed-insights/next"
+
 
 export const metadata: Metadata = {
   title: 'Franzis fabelhafte Törtchen',
@@ -14,6 +16,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body>
         <Header />
         {children}
+
+        <SpeedInsights />
       </body>
     </html>
   )
