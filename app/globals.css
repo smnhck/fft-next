@@ -1,6 +1,4 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
 
 :root {
   --foreground-rgb: 0, 0, 0;
@@ -26,4 +24,17 @@ html {
     [&>div::before]:rotate-45 [&>div::after]:translate-y-0 
     [&>div::after]:-rotate-45
   }
+}
+
+@theme {
+  --color-primary: #A01D35;
+  --color-primary-dark: #711D2C;
+  --color-secondary: #B81885;
+  --color-black-5: #f4f3f3;
+  --color-black-10: #E9E9E9;
+  --color-black-50: #8f8d8d;
+
+  --background-image-gradient-radial': 'radial-gradient(var(--tw-gradient-stops))';
+  --background-image-gradient-conic': 'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))';
+      
 }

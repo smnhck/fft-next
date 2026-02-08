@@ -8,11 +8,6 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
-        'gradient-conic':
-          'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
-      },
       spacing: {
         px: '1px',
         0: '0',
@@ -67,14 +62,10 @@ const config: Config = {
       fontFamily: {
         sans: ['var(--font-greatVibes)']
       },
-      colors: {
-        'primary': '#A01D35',
-        'primary-dark': '#711D2C',
-        'secondary': '#B81885',
-        'black-10': '#E9E9E9'
-      }
     },
   },
-  plugins: [],
+  plugins: [
+    require('tailwind-scrollbar-hide')
+  ],
 }
 export default config
