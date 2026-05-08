@@ -6,7 +6,7 @@ import { documentToReactComponents } from '@contentful/rich-text-react-renderer'
 import { getCake, getAllCakes, getCakesByCategory } from '@/lib/api'
 import { SOCIAL_LINKS } from '@/lib/constants'
 import CakeCard from '@/components/molecules/cakeCard'
-import CakeImage from '@/components/atoms/cakeImage'
+import CakeGallery from '@/components/atoms/cakeGallery'
 import JsonLd from '@/components/atoms/jsonLd'
 
 function MetaInfo({ servings, allergens }: { servings?: number; allergens?: string[] }) {
@@ -136,24 +136,7 @@ export default async function CakePage({
 
       <div className="grid md:grid-cols-2 gap-8 md:gap-12">
         {/* Image gallery */}
-        <div className="space-y-3">
-          {cake.images && cake.images.length > 0 ? (
-            cake.images.map((img: any, i: number) => (
-              <div key={i} className="rounded-lg overflow-hidden bg-gray-100">
-                <CakeImage
-                  src={img.public_id || img.url}
-                  alt={img.context?.custom?.alt || `${cake.title} — Bild ${i + 1}`}
-                  width={800}
-                  height={800}
-                />
-              </div>
-            ))
-          ) : (
-            <div className="aspect-square bg-gray-100 rounded-lg flex items-center justify-center text-gray-400">
-              Kein Bild vorhanden
-            </div>
-          )}
-        </div>
+        <CakeGallery images={cake.images ?? []} title={cake.title} />
 
         {/* Info */}
         <div>

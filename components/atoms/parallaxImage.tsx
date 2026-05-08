@@ -7,9 +7,10 @@ interface ParallaxImageProps {
   src: string
   alt: string
   speed?: number
+  align?: 'top' | 'center'
 }
 
-export default function ParallaxImage({ src, alt, speed = 0.4 }: ParallaxImageProps) {
+export default function ParallaxImage({ src, alt, speed = 0.4, align = 'center' }: ParallaxImageProps) {
   const ref = useRef<HTMLDivElement>(null)
 
   useEffect(() => {
@@ -32,15 +33,17 @@ export default function ParallaxImage({ src, alt, speed = 0.4 }: ParallaxImagePr
     return () => window.removeEventListener('scroll', onScroll)
   }, [speed])
 
+  const isTop = align === 'top'
+
   return (
-    <div ref={ref} className="absolute inset-0 h-[130%] -top-[15%]">
+    <div ref={ref} className={`absolute inset-0 h-[130%] ${isTop ? '-top-0' : '-top-[15%]'}`}>
       <CldImage
         src={src}
         alt={alt}
         fill
-        className="object-cover object-center"
+        className={`object-cover ${isTop ? 'object-top' : 'object-center'}`}
         crop="fill"
-        gravity="auto"
+        gravity={isTop ? 'north' : 'auto'}
       />
     </div>
   )

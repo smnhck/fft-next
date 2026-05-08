@@ -13,6 +13,7 @@ export default async function Stage() {
         <ParallaxImage
           src={bgImage.public_id}
           alt={bgImage.context?.custom?.alt ?? 'Franzis fabelhafte Törtchen'}
+          align="top"
         />
       ) : (
         <div

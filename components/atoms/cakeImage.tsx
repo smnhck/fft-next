@@ -10,9 +10,10 @@ interface CakeImageProps {
   fill?: boolean
   priority?: boolean
   className?: string
+  crop?: string
 }
 
-export default function CakeImage({ width, height, src, alt, fill, priority, className }: CakeImageProps) {
+export default function CakeImage({ width, height, src, alt, fill, priority, className, crop = 'fill' }: CakeImageProps) {
   // Extract Cloudinary public ID from full Cloudinary URLs, otherwise use as-is
   const cloudinaryRegex = /\/upload\/(?:[a-z_]+\/)*(?:v\d+\/)?(.+?)(?:\.[a-z]+)?$/
   const match = src.match(cloudinaryRegex)
@@ -24,7 +25,7 @@ export default function CakeImage({ width, height, src, alt, fill, priority, cla
       {...(fill ? { fill } : { width, height })}
       src={isExternalUrl ? src : publicId}
       alt={alt}
-      crop="fill"
+      crop={crop as any}
       gravity="auto"
       {...(priority ? { priority } : {})}
       {...(className ? { className } : {})}
