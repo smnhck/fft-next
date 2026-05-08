@@ -78,7 +78,7 @@ export default async function CakePage({
 
   const category = cake.categoriesCollection?.items?.[0]
   const whatsappMsg = encodeURIComponent(
-    `Hallo liebe Franzi, ich interessiere mich für „${cake.title}". Könntest Du mir mehr dazu erzählen?`
+    `Hallo liebe Franzi, ich interessiere mich für „${cake.title}". Ich bräuchte eine Torte für folgendes Datum:`
   )
   const whatsappHref = `https://wa.me/491776274267?text=${whatsappMsg}`
 
