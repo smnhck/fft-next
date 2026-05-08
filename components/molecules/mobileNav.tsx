@@ -1,82 +1,98 @@
 'use client'
 
-import Link from "next/link";
-import Image from "next/image";
-import { greatVibes } from "@/app/fonts";
+import { useState } from 'react'
+import { createPortal } from 'react-dom'
+import Link from 'next/link'
+import Image from 'next/image'
+import { SOCIAL_LINKS, NAV_LINKS } from '@/lib/constants'
 
-const toggleMobileMenu = () => {
-  (document.querySelector('#toggleMenu'))?.classList.toggle("hamburger-toggle");
-  (document.querySelector('#navbarMobile'))?.classList.toggle("hidden");
-  document.body.classList.toggle(`overflow-hidden`);
-}
+export default function MobileNav() {
+  const [isOpen, setIsOpen] = useState(false)
 
-function MobileNav() {
+  const toggle = () => {
+    setIsOpen(prev => !prev)
+    document.body.classList.toggle('overflow-hidden')
+  }
+
+  const close = () => {
+    setIsOpen(false)
+    document.body.classList.remove('overflow-hidden')
+  }
+
   return (
-    <div className="w-full md:hidden flex">
+    <div className="md:hidden">
+      {/* Hamburger button */}
+      <button
+        onClick={toggle}
+        className="relative w-6 h-5 flex flex-col justify-between"
+        aria-label={isOpen ? 'Menü schließen' : 'Menü öffnen'}
+        aria-expanded={isOpen}
+      >
+        <span
+          className={`block h-0.5 w-full bg-gray-800 rounded transition-all duration-200 ${
+            isOpen ? 'rotate-45 translate-y-2' : ''
+          }`}
+        />
+        <span
+          className={`block h-0.5 w-full bg-gray-800 rounded transition-all duration-200 ${
+            isOpen ? 'opacity-0' : ''
+          }`}
+        />
+        <span
+          className={`block h-0.5 w-full bg-gray-800 rounded transition-all duration-200 ${
+            isOpen ? '-rotate-45 -translate-y-2' : ''
+          }`}
+        />
+      </button>
 
-      <Link href="/" className={`${greatVibes.className} text-primary text-basel sm:text-xl`}>Franzis fabelhafte Törtchen</Link>
+      {/* Mobile menu overlay — portalled to body to escape header's backdrop-filter containing block */}
+      {isOpen && createPortal(
+        <div className="fixed inset-0 top-16 bg-white z-50 overflow-auto md:hidden">
+          <nav className="flex flex-col px-6 py-8">
+            {NAV_LINKS.map(({ href, label }) => (
+              <Link
+                key={href}
+                href={href}
+                onClick={close}
+                className="py-3 text-lg font-medium text-gray-800 border-b border-gray-100 hover:text-primary transition-colors"
+              >
+                {label}
+              </Link>
+            ))}
+          </nav>
 
-      <div className="ml-auto my-auto">
-        <div id="toggleMenu" className="w-4 h-3 grid place-content-center hover:cursor-pointer"
-          onClick={toggleMobileMenu}>
-          <div className="
-            w-4 
-            h-0.5 
-            bg-black 
-            rounded-full 
-            before:content-[''] 
-            before:absolute 
-            before:w-4
-            before:h-0.5 
-            before:bg-black 
-            before:rounded-full
-            before:-translate-y-1
-            before:transition-all
-            before:duration-150
-            after:content-[''] 
-            after:absolute 
-            after:w-4
-            after:h-0.5 
-            after:bg-black 
-            after:rounded-full
-            after:translate-y-1
-            after:transition-all
-            after:duration-150
-            "
-          >
+          <div className="flex justify-center gap-6 py-8">
+            <Link
+              href={SOCIAL_LINKS.whatsapp}
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="WhatsApp"
+              onClick={close}
+            >
+              <Image src="/img/icons/whatsapp.svg" alt="" width={40} height={40} />
+            </Link>
+            <Link
+              href={SOCIAL_LINKS.instagram}
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Instagram"
+              onClick={close}
+            >
+              <Image src="/img/icons/instagram.svg" alt="" width={40} height={40} />
+            </Link>
+            <Link
+              href={SOCIAL_LINKS.facebook}
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Facebook"
+              onClick={close}
+            >
+              <Image src="/img/icons/facebook.svg" alt="" width={40} height={40} />
+            </Link>
           </div>
-        </div>
-      </div>
-      <div className="hidden absolute w-full px-2 md:block md:w-auto bg-white/95 top-12 bottom-0 left-0 overflow-auto" id="navbarMobile">
-        <ul className="text-right py-2 font-bold text-xl border-b-2">
-          <li>
-            <Link href={'/'}>Home</Link>
-          </li>
-          <li>
-            <Link href={'/'}>Stöbern</Link>
-          </li>
-          <li>
-            <Link href={'/'}>Kontakt</Link>
-          </li>
-          <li>
-            <Link href={'/'}>Über mich</Link>
-          </li>
-        </ul>
-
-        <div className="space-x-4 text-right py-2">
-          <Link href={'https://wa.me/491776274267?text=Hallo%20liebe%20Franzi%2C%20ich%20interessiere%20mich%20f%C3%BCr%20eine%20deiner%20Torten'} target="_blank" className="inline-block">
-            <Image src={'/img/icons/whatsapp.svg'} alt="WhatsApp" width={48} height={48} />
-          </Link>
-          <Link href={'https://www.instagram.com/explore/locations/109672371220015/franzis-fabelhafte-tortchen/'} target="_blank" className="inline-block">
-            <Image src={'/img/icons/instagram.svg'} alt="Instagram" width={48} height={48} />
-          </Link>
-          <Link href={'https://www.facebook.com/franzisfabelhaftetoertchen/'} target="_blank" className="inline-block">
-            <Image src={'/img/icons/facebook.svg'} alt="Facebook" width={48} height={48} />
-          </Link>
-        </div>
-      </div>
+        </div>,
+        document.body,
+      )}
     </div>
   )
 }
-
-export default MobileNav;

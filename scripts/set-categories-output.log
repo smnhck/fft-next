@@ -1,0 +1,51 @@
+Built lookup with 396 entries from migration files
+Found 6 categories in Contentful: plaetzchen-kekse-und-kleingebaeck, kuchen-und-muffins, flaumiges-hefegebaeck, torten-und-toertchen, cake-pops, hochzeitstorten
+Found 249 cake entries total
+206 cakes already have categories
+43 cakes are missing categories
+
+  Coconut Cupcakes → kuchen-und-muffins
+  Silver & Blue Cake → torten-und-toertchen
+  Birthday Queen‘s Cake → torten-und-toertchen
+  Weihnachtstorte mit Orange & Zitrone → torten-und-toertchen
+  Geburtstagstorte für Zwillinge → torten-und-toertchen
+  Black & Silver Cake → torten-und-toertchen
+  Orange Cake Pops → cake-pops
+  Hochzeitstorte mit Kürbis & Co. → hochzeitstorten
+  White & Clean Wedding Cake → hochzeitstorten
+  Hochzeitstorte Black & White → hochzeitstorten
+  Yellow & Blue → hochzeitstorten
+  Black & Gold 2.0 → torten-und-toertchen
+  Cupcake-Variationen → kuchen-und-muffins
+  Green & Gold → hochzeitstorten
+  Black, Gold & Silver Cake → torten-und-toertchen
+  White & Gold Hochzeitstorte → hochzeitstorten
+  Green & Silver Hochzeitstorte → hochzeitstorten
+  Einhorn-Torte → torten-und-toertchen
+  Cupcake-Variation auf Étagêre → kuchen-und-muffins
+  White & Gold Torte → torten-und-toertchen
+  Vintage-Cake R.I.P. → torten-und-toertchen
+  Dreistöckige Hochzeitstorte mit Trockenblumen → hochzeitstorten
+  Apfel-Cupcakes „Fantakuchen“ → kuchen-und-muffins
+  Fußball-Torte 2.0 → torten-und-toertchen
+  Black & Gold → torten-und-toertchen
+  Tropical-Cocktail-Torte → torten-und-toertchen
+  Himbeer-Biskuitrolle → torten-und-toertchen
+  Hochzeitstorte „Beerentraum“ → hochzeitstorten
+  Einschulungs-Torte → torten-und-toertchen
+  Hochzeitstorte „Blumenwiese“ → hochzeitstorten
+  Choco Peanut Cheesecake → kuchen-und-muffins
+  Hochzeitstorte à la Mousse au Chocolat → hochzeitstorten
+  Beeren-Schokoladen-Torte → torten-und-toertchen
+  Mozart-Torte → torten-und-toertchen
+  White Cranberry Crossies → plaetzchen-kekse-und-kleingebaeck
+  Black Mint Cranberry Crossies → plaetzchen-kekse-und-kleingebaeck
+  Mandel-Cranberry-Taler → plaetzchen-kekse-und-kleingebaeck
+  Aprikosenwölkchen → plaetzchen-kekse-und-kleingebaeck
+  Gefüllte Kakaokugeln mit Haselnüssen → plaetzchen-kekse-und-kleingebaeck
+  Gefüllte Marmeladenplätzchen → plaetzchen-kekse-und-kleingebaeck
+  Blätterteig-Spekulatius-Teilchen → plaetzchen-kekse-und-kleingebaeck
+  Käseküchlein mit Mandel-Zuckerkruste → kuchen-und-muffins
+  Eierlikör-Espresso-Torte → torten-und-toertchen
+
+Done: 43 updated, 0 unmatched, 206 already had categories

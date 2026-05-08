@@ -1,0 +1,36 @@
+{
+	"inputs": [
+		{
+			"type": "promptString",
+			"id": "figma-key",
+			"description": "Figma API Key",
+			"password": true
+		},
+    {
+        "type": "promptString",
+        "id": "contentful-management-token",
+        "description": "Contentful Management Access Token",
+        "password": true
+      }
+	],
+	"servers": {
+		"figma": {
+			"type": "stdio",
+			"command": "npx",
+			"args": [
+				"-y",
+				"figma-developer-mcp",
+				"--figma-api-key",
+				"${input:figma-key}",
+				"--stdio"
+			]
+		},
+    "contentful": {
+			"type": "http",
+        "url": "https://mcp.contentful.com/mcp",
+        "headers": {
+          "Authorization": "Bearer ${input:contentful-management-token}"
+        }
+		}
+	}
+}

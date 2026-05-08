@@ -1,31 +1,35 @@
 'use client'
 
-import Link from "next/link"
-import Image from "next/image"
+import Link from 'next/link'
+import { CldImage } from 'next-cloudinary'
 
-interface CategoryProps {
-  title: string,
-  image: string
+interface CategoryCardProps {
+  title: string
+  imageId?: string
+  imageAlt?: string
+  href: string
 }
 
-const handleMouseEnter = (e: any) => {
-  e.target.parentNode.getElementsByTagName('img')[0]?.classList.add('scale-125');
-}
-const handleMouseLeave = (e: any) => {
-  e.target.parentNode.getElementsByTagName('img')[0]?.classList.remove('scale-125');
-}
-
-function CategoryCard(props: CategoryProps) {
+export default function CategoryCard({ title, imageId, imageAlt, href }: CategoryCardProps) {
   return (
-    <Link href='/' key={props.title}>
-      <div className="position relative pb-[72%] rounded-lg overflow-hidden drop-shadow-lg" onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave}>
-        <Image alt={props.title} fill sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw " className="object-cover transition-all duration-300" src={props.image} />
-        <div className="absolute left-0 right-0 top-0 bottom-0 bg-gradient-to-t from-black via-20% via-transparent">
-          <p className="text-white absolute bottom-1 left-0 right-0">{props.title}</p>
-        </div>
+    <Link href={href} className="group block">
+      <div className="relative aspect-[4/3] overflow-hidden bg-gray-100">
+        {imageId ? (
+          <CldImage
+            alt={imageAlt ?? title}
+            fill
+            sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw"
+            className="object-cover transition-transform duration-500 group-hover:scale-105"
+            src={imageId}
+            crop="fill"
+            gravity="auto"
+          />
+        ) : null}
+        <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent" />
+        <p className="absolute bottom-4 left-4 text-white font-semibold text-lg">
+          {title}
+        </p>
       </div>
     </Link>
   )
 }
-
-export default CategoryCard;

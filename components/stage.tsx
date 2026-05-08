@@ -1,27 +1,59 @@
-import Image from 'next/image'
-import { greatVibes } from '../app/fonts'
 import Link from 'next/link'
+import { getStage } from '@/lib/api'
+import ParallaxImage from '@/components/atoms/parallaxImage'
 
-export default function Stage() {
+export default async function Stage() {
+  const stage = await getStage()
+  const bgImage = stage?.backgroundImage?.[0]
+
   return (
-    <div className="bg-[url('/img/watercolour-flowers.png')] bg-center bg-cover bg-no-repeat">
-      <div className='pt-8 md:pt-16 pb-16 px-2 xl:px-32 bg-white/85'>
-        <div className='text-center'>
-          <h1 className={`${greatVibes.className} mb-4 text-4xl sm:text-5xl text-primary leading-none`}>Franzis fabelhafte Törtchen</h1>
-          <div className={`${greatVibes.className} mb-4 text-2xl text-primary`}>Torten, Kuchen, Kekse & allerlei süße Sünden auf Bestellung</div>
-          <div className='mb-8 max-w-3xl mx-auto'>
-            Du brauchst feine Leckereien für einen ganz besonderen Anlass, um Deine Liebsten zu verwöhnen oder um Dir einfach etwas Gutes zu gönnen? Dann bin ich die Richtige für Deine Wünsche! Egal, ob es eine meiner Kreationen sein soll, wie sie auf den Bildern zu sehen ist, oder ganz individuell nach Deinen Wünschen abgewandelt, der Fantasie sind nahezu keine Grenzen gesetzt und ich würde mich freuen, Dein Traumtörtchen fabrizieren zu dürfen!
-          </div>
-          <div>
-            <Link className='py-3 px-6 text-white bg-gradient-to-r from-primary to-secondary mb-2 sm:mb-0 sm:mr-4 block sm:inline-flex items-center drop-shadow-lg' href="/">
-              Stöbern <Image src='/img/icons/shop.svg' alt='Shop icon' className='inline-block ml-2 align-text-bottom' width={24} height={24} />
-            </Link>
-            <Link className='py-3 px-6 text-white bg-gradient-to-r from-primary to-secondary block sm:inline-flex items-center drop-shadow-lg' href="/">
-              Kontakt <Image src='/img/icons/speech-bubble.svg' alt='Speech bubble icon' className='inline-block ml-2 align-text-bottom' width={24} height={24} />
-            </Link>
+    <section className="relative min-h-[70vh] md:min-h-[80vh] flex items-center overflow-hidden">
+      {/* Background image with parallax */}
+      {bgImage?.public_id ? (
+        <ParallaxImage
+          src={bgImage.public_id}
+          alt={bgImage.context?.custom?.alt ?? 'Franzis fabelhafte Törtchen'}
+        />
+      ) : (
+        <div
+          className="absolute inset-0 bg-cover bg-center"
+          style={{ backgroundImage: 'url(/img/hero.jpg)' }}
+        />
+      )}
+      {/* Dark overlay for contrast */}
+      <div className="absolute inset-0 bg-black/40" />
+
+      {/* Content — frosted glass panel */}
+      <div className="relative z-10 w-full px-4 md:px-8">
+        <div className="max-w-6xl mx-auto">
+          <div className="bg-white/70 backdrop-blur-md rounded-xl p-8 md:p-12 max-w-lg">
+            <h1 className="font-display text-4xl sm:text-5xl md:text-6xl text-primary mb-3 leading-tight">
+              Franzis fabelhafte Törtchen
+            </h1>
+            <p className="text-lg md:text-xl text-gray-800 mb-2 font-semibold">
+              Handgemacht in Gießen
+            </p>
+            <p className="text-gray-600 mb-8">
+              Torten, Kuchen, Kekse & allerlei süße Sünden — individuell
+              nach Deinen Wünschen, für jeden besonderen Anlass.
+            </p>
+            <div className="flex flex-col sm:flex-row gap-3">
+              <Link
+                href="/stoebern"
+                className="inline-flex items-center justify-center py-3 px-6 bg-primary text-white hover:bg-primary-dark transition-colors"
+              >
+                Kreationen entdecken
+              </Link>
+              <Link
+                href="/kontakt"
+                className="inline-flex items-center justify-center py-3 px-6 border border-primary text-primary hover:bg-primary hover:text-white transition-colors"
+              >
+                Anfrage stellen
+              </Link>
+            </div>
           </div>
         </div>
       </div>
-    </div>
+    </section>
   )
 }

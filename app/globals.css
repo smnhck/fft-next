@@ -1,40 +1,26 @@
 @import "tailwindcss";
 
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
-}
+@theme {
+  /* Brand colors */
+  --color-primary: #A01D35;
+  --color-primary-dark: #711D2C;
+  --color-secondary: #B81885;
 
-html {
-  font-size: 21px;
-}
+  /* Neutral tints */
+  --color-cream: #FAF8F6;
+  --color-black-5: #f4f3f3;
+  --color-black-10: #E9E9E9;
+  --color-black-50: #8f8d8d;
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
+  /* Font families */
+  --font-body: var(--font-overlock), system-ui, sans-serif;
+  --font-display: var(--font-greatVibes), cursive;
 }
 
 @layer utilities {
   .hamburger-toggle {
     @apply [&>div]:h-0 [&>div]:bg-white [&>div::before]:translate-y-0
-    [&>div::before]:rotate-45 [&>div::after]:translate-y-0 
-    [&>div::after]:-rotate-45
+    [&>div::before]:rotate-45 [&>div::after]:translate-y-0
+    [&>div::after]:-rotate-45;
   }
-}
-
-@theme {
-  --color-primary: #A01D35;
-  --color-primary-dark: #711D2C;
-  --color-secondary: #B81885;
-  --color-black-5: #f4f3f3;
-  --color-black-10: #E9E9E9;
-  --color-black-50: #8f8d8d;
-
-  --background-image-gradient-radial': 'radial-gradient(var(--tw-gradient-stops))';
-  --background-image-gradient-conic': 'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))';
-      
 }

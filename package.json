@@ -9,12 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@contentful/rich-text-react-renderer": "^16.1.6",
+    "@contentful/rich-text-types": "^17.2.5",
     "@vercel/speed-insights": "^1.0.10",
+    "contentful-management": "^12.3.2",
+    "dotenv": "^17.4.2",
     "next": "^14.2.35",
     "next-cloudinary": "^6.6.2",
     "react": "^18",
-    "react-dom": "^18",
-    "tailwind-scrollbar-hide": "^1.1.7"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.18",

@@ -1,0 +1,3045 @@
+{
+  "scrapedAt": "2026-03-28T07:44:42.780Z",
+  "totalCakes": 251,
+  "failedDetailPages": 0,
+  "categories": [
+    {
+      "slug": "torten-und-toertchen",
+      "title": "Torten & Törtchen"
+    },
+    {
+      "slug": "hochzeitstorten",
+      "title": "Hochzeitstorten"
+    },
+    {
+      "slug": "flaumiges-hefegebaeck",
+      "title": "Flaumiges Hefegebäck"
+    },
+    {
+      "slug": "kuchen-und-muffins",
+      "title": "Kuchen, Muffins & Cupcakes"
+    },
+    {
+      "slug": "plaetzchen-kekse-und-kleingebaeck",
+      "title": "Plätzchen, Kekse & Kleingebäck"
+    },
+    {
+      "slug": "cake-pops",
+      "title": "Cake Pops"
+    }
+  ],
+  "cakes": [
+    {
+      "title": "Mousse-au-Chocolat-Torte mit Beeren",
+      "slug": "mousse-au-chocolat-torte-mit-beeren",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1709561871_IMG_2229.jpeg",
+      "images": []
+    },
+    {
+      "title": "Mango-Stracciatella-Torte",
+      "slug": "mango-stracciatella-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1772964341_IMG_2586.jpeg",
+      "images": []
+    },
+    {
+      "title": "Mango-Himbeercreme-Torte",
+      "slug": "mango-himbeercreme-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1694887537_IMG_0478.jpeg",
+      "images": []
+    },
+    {
+      "title": "Hawaii-Torte",
+      "slug": "hawaii-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1761473386_IMG_6124.jpeg",
+      "images": []
+    },
+    {
+      "title": "Apfeltorte alla Tiramisù",
+      "slug": "apfeltorte-alla-tiramisu",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1723196993_IMG_0090.jpeg",
+      "images": []
+    },
+    {
+      "title": "Eierlikör-Espresso-Torte",
+      "slug": "eierlikör-espresso-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1769339037_IMG_0069.jpeg",
+      "images": []
+    },
+    {
+      "title": "Licor-43-Torte",
+      "slug": "licor-43-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-38-1622066560.jpeg",
+      "images": []
+    },
+    {
+      "title": "Johannisbeer-Torte",
+      "slug": "johannisbeer-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1694427385_IMG_0335.jpeg",
+      "images": []
+    },
+    {
+      "title": "Apfel-Brombeer-Torte",
+      "slug": "apfel-brombeer-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1645297636_8ACE037E-8BF1-4A4E-8FB8-8109A057F160.jpeg",
+      "images": []
+    },
+    {
+      "title": "Oktoberfest-Torte",
+      "slug": "oktoberfest-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-50-1622066564.jpeg",
+      "images": []
+    },
+    {
+      "title": "Baileys-Zimtmousse-Torte",
+      "slug": "baileys-zimtmousse-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1611594770_AE5C8B06-5EF2-4F38-A626-13300A4DD919.jpeg",
+      "images": []
+    },
+    {
+      "title": "Charlotte mit Zitronencreme",
+      "slug": "charlotte-mit-zitronencreme",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1629021125_207FAAD4-6D0B-4BF8-BDB2-5E329E5E99D5.jpeg",
+      "images": []
+    },
+    {
+      "title": "Zwetschgen-Apfelschaum-Torte",
+      "slug": "zwetschgen-apfelschaum-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1656160945_2292E3B8-7D9C-4D66-8FD4-4B2EEDE1D257.jpeg",
+      "images": []
+    },
+    {
+      "title": "Erdbeer-Schokoladentorte",
+      "slug": "erdbeer-schokoladentorte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-117-1622066590.jpeg",
+      "images": []
+    },
+    {
+      "title": "Eierlikör-Torte",
+      "slug": "eierlikoer-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1734983431_IMG_5715.jpeg",
+      "images": []
+    },
+    {
+      "title": "Himbeer-Raffaello-Biskuitrolle",
+      "slug": "himbeer-raffaello-biskuitrolle",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1733215857_IMG_4949.jpeg",
+      "images": []
+    },
+    {
+      "title": "Winterliche Schokoladen-Kirschtorte",
+      "slug": "winterliche-schokoladen-kirschtorte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1765017924_IMG_7760.jpeg",
+      "images": []
+    },
+    {
+      "title": "Apfel-Sahne-Torte mit Zimt",
+      "slug": "apfel-sahne-torte-mit-zimt",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1723212689_IMG_0098.jpeg",
+      "images": []
+    },
+    {
+      "title": "Oreo-Schokoladentorte",
+      "slug": "oreo-schokoladentorte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1679250243_9E713028-CF27-4E67-99FB-078287132674.jpeg",
+      "images": []
+    },
+    {
+      "title": "Mozart-Torte",
+      "slug": "mozart-torte-",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1772358774_IMG_2161.jpeg",
+      "images": []
+    },
+    {
+      "title": "Beeren-Schokoladen-Torte",
+      "slug": "beeren-schokoladen-torte-",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1716908985_IMG_7372.jpeg",
+      "images": []
+    },
+    {
+      "title": "Erdbeer-Himbeertorte mit weißer Mousse au Chocolat",
+      "slug": "erdbeer-himbeertorte-mit-weisser-mousse-au-chocolat",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1681556858_83837D0C-B50A-4F86-B863-8C5DB26B511E.jpeg",
+      "images": []
+    },
+    {
+      "title": "Erdbeer-Raffaello-Torte",
+      "slug": "erdbeer-raffaello-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1755610522_IMG_3639.jpeg",
+      "images": []
+    },
+    {
+      "title": "Einschulungs-Torte",
+      "slug": "einschulungs-torte-",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1741361469_IMG_8078.jpeg",
+      "images": []
+    },
+    {
+      "title": "Bananen-Schokoladen-Torte",
+      "slug": "bananen-schokoladen-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1768815275_IMG_9636.jpeg",
+      "images": []
+    },
+    {
+      "title": "Number Cake",
+      "slug": "number-cake",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1682077562_8425140C-3AA5-4457-8BD9-C81879ED655B.jpeg",
+      "images": []
+    },
+    {
+      "title": "Letter Cake",
+      "slug": "letter-cake",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1771662867_IMG_1703.jpeg",
+      "images": []
+    },
+    {
+      "title": "Frozen-Torte",
+      "slug": "frozen-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1745685133_IMG_9613.jpeg",
+      "images": []
+    },
+    {
+      "title": "Torte in Fischform",
+      "slug": "torte-in-fischform",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1684675646_IMG_7508.jpeg",
+      "images": []
+    },
+    {
+      "title": "Chocoholic-Biskuitrolle",
+      "slug": "chocoholic-biskuitrolle",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1684676003_IMG_7502.jpeg",
+      "images": []
+    },
+    {
+      "title": "Himbeer-Biskuitrolle",
+      "slug": "himbeer-biskuitrolle-",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1734983362_IMG_5758.jpeg",
+      "images": []
+    },
+    {
+      "title": "Rosen-Torte",
+      "slug": "rosen-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1745420295_IMG_9473.jpeg",
+      "images": []
+    },
+    {
+      "title": "Ninja-Turtles-Torte",
+      "slug": "ninja-turtles-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1688679637_IMG_8460.jpeg",
+      "images": []
+    },
+    {
+      "title": "Fußballer-Torte",
+      "slug": "fussballer-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1749230984_IMG_1264.jpeg",
+      "images": []
+    },
+    {
+      "title": "Baby-Torte blau",
+      "slug": "baby-torte-blau",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1698250930_IMG_1428.jpeg",
+      "images": []
+    },
+    {
+      "title": "Schokoladentorte mit Erdbeeren und Bananen",
+      "slug": "schokoladentorte-mit-erdbeeren-und-bananen",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1691313586_IMG_9288.jpeg",
+      "images": []
+    },
+    {
+      "title": "Napoleon-Torte",
+      "slug": "napoleon-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1772791413_IMG_2403.jpeg",
+      "images": []
+    },
+    {
+      "title": "Superhelden-Torte",
+      "slug": "superhelden-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1692450739_IMG_9582.jpeg",
+      "images": []
+    },
+    {
+      "title": "Pink Ombré Torte",
+      "slug": "pink-ombre-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1769321568_IMG_0152.jpeg",
+      "images": []
+    },
+    {
+      "title": "Feuerwehr-Torte",
+      "slug": "feuerwehr-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1760024410_IMG_3702.jpeg",
+      "images": []
+    },
+    {
+      "title": "Schultüten-Torte",
+      "slug": "schultueten-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1756489667_IMG_4064.jpeg",
+      "images": []
+    },
+    {
+      "title": "Konfirmationstorte",
+      "slug": "konfirmationstorte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1769855587_IMG_0514.jpeg",
+      "images": []
+    },
+    {
+      "title": "Gamer-Torte",
+      "slug": "gamer-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1742748387_IMG_8461.jpeg",
+      "images": []
+    },
+    {
+      "title": "Tropical-Cocktail-Torte",
+      "slug": "tropical-cocktail-torte-",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1772132904_IMG_1945.jpeg",
+      "images": []
+    },
+    {
+      "title": "Meerjungfrauen-Torte",
+      "slug": "meerjungfrauen-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1769198218_IMG_9936.jpeg",
+      "images": []
+    },
+    {
+      "title": "Jack-Daniel‘s-Torte",
+      "slug": "jack-daniel‘s-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1714762913_IMG_6410.jpeg",
+      "images": []
+    },
+    {
+      "title": "Schwarzwälder Kirschtorte",
+      "slug": "schwarzwaelder-kirschtorte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1770628272_IMG_1245.jpeg",
+      "images": []
+    },
+    {
+      "title": "Spongebob-Torte",
+      "slug": "spongebob-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1726850789_IMG_2277.jpeg",
+      "images": []
+    },
+    {
+      "title": "Zitronen-Torte",
+      "slug": "zitronen-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1749978269_IMG_1527.jpeg",
+      "images": []
+    },
+    {
+      "title": "Baustellen-Torte",
+      "slug": "baustellen-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1746809566_IMG_0105.jpeg",
+      "images": []
+    },
+    {
+      "title": "Harry-Potter-Torte",
+      "slug": "harry-potter-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1702035321_IMG_2556.jpeg",
+      "images": []
+    },
+    {
+      "title": "Jägermeister-Torte",
+      "slug": "jaegermeister-torte-",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1703542895_IMG_2878.jpeg",
+      "images": []
+    },
+    {
+      "title": "Winterzauber-Torte",
+      "slug": "winterzauber-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1703340468_IMG_2800.jpeg",
+      "images": []
+    },
+    {
+      "title": "Dino-Torte",
+      "slug": "dino-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1714143627_IMG_6182.jpeg",
+      "images": []
+    },
+    {
+      "title": "Gin-Lovers-Torte",
+      "slug": "gin-lovers-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1713604296_IMG_6024.jpeg",
+      "images": []
+    },
+    {
+      "title": "Rechteck-Torte",
+      "slug": "rechteck-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1712499812_IMG_5693.jpeg",
+      "images": []
+    },
+    {
+      "title": "Bärchen-Torte",
+      "slug": "baerchen-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1771578780_IMG_1682.jpeg",
+      "images": []
+    },
+    {
+      "title": "Black Beauty",
+      "slug": "black-beauty",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1768301015_IMG_9340.jpeg",
+      "images": []
+    },
+    {
+      "title": "Stitch-Torte",
+      "slug": "stitch-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1715508818_IMG_6810.jpeg",
+      "images": []
+    },
+    {
+      "title": "Herz-Torte",
+      "slug": "herz-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1746969884_IMG_0260.jpeg",
+      "images": []
+    },
+    {
+      "title": "Bibel-Torte",
+      "slug": "bibel-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1734982696_IMG_5700.jpeg",
+      "images": []
+    },
+    {
+      "title": "Gender Reveal Torte",
+      "slug": "gender-reveal-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1764175892_IMG_7176.jpeg",
+      "images": []
+    },
+    {
+      "title": "Beauty-Torte",
+      "slug": "beauty-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1716022334_IMG_7026.jpeg",
+      "images": []
+    },
+    {
+      "title": "Violet Ombre Torte",
+      "slug": "violet-ombre-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1760259725_IMG_5661.jpeg",
+      "images": []
+    },
+    {
+      "title": "Kreuz-Torte",
+      "slug": "kreuz-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1717263921_E9913A28-24FD-482E-9065-6A4047677076.jpeg",
+      "images": []
+    },
+    {
+      "title": "Black &amp; Gold",
+      "slug": "black-&-gold",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1719731378_IMG_8632.jpeg",
+      "images": []
+    },
+    {
+      "title": "Fußball-Torte 2.0",
+      "slug": "fussball-torte-2.0",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1772826942_IMG_2467.jpeg",
+      "images": []
+    },
+    {
+      "title": "Waldbeer-Stracciatella-Torte",
+      "slug": "waldbeer-stracciatella-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1720346549_E5F52FE5-D919-4CA3-AC89-EF117188A19F.jpeg",
+      "images": []
+    },
+    {
+      "title": "Tauf-Torte im Ombré Look",
+      "slug": "tauf-torte-im-ombre-look",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1720880782_IMG_9239.jpeg",
+      "images": []
+    },
+    {
+      "title": "Waldbeercreme-Torte",
+      "slug": "waldbeercreme-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1771174742_IMG_1474.jpeg",
+      "images": []
+    },
+    {
+      "title": "Vintage Heart Cake",
+      "slug": "vintage-heart-cake",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1765015062_IMG_7709.jpeg",
+      "images": []
+    },
+    {
+      "title": "Prinzessinnen-Torte",
+      "slug": "prinzessinnen-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1739260250_IMG_7235.jpeg",
+      "images": []
+    },
+    {
+      "title": "Herr-der-Ringe-Torte",
+      "slug": "herr-der-ringe-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1745997788_IMG_9696.jpeg",
+      "images": []
+    },
+    {
+      "title": "Paw Patrol Torte",
+      "slug": "paw-patrol-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1769855152_IMG_1267.jpeg",
+      "images": []
+    },
+    {
+      "title": "Dream of Chocolate Cake",
+      "slug": "dream-of-chocolate-cake",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1725346960_IMG_1305.jpeg",
+      "images": []
+    },
+    {
+      "title": "Marzipan-Sahnetorte",
+      "slug": "marzipan-sahnetorte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1769340643_IMG_0203.jpeg",
+      "images": []
+    },
+    {
+      "title": "Vintage-Torte",
+      "slug": "vintage-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1726751184_IMG_2216.jpeg",
+      "images": []
+    },
+    {
+      "title": "Pink-Ombré-Torte mit Pistazien",
+      "slug": "pink-ombre-torte-mit-pistazien",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1726824769_65AA52FC-FEFF-4679-B8A2-3E7DAA47FF50.jpeg",
+      "images": []
+    },
+    {
+      "title": "Süße Rehkitz-Torte",
+      "slug": "suesse-rehkitz-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1739024929_IMG_7149.jpeg",
+      "images": []
+    },
+    {
+      "title": "Greenery Baby-Torte",
+      "slug": "greenery-baby-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1757703226_IMG_4556.jpeg",
+      "images": []
+    },
+    {
+      "title": "Vintage-Cake R.I.P.",
+      "slug": "vintage-cake-r.i.p.",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1762449148_IMG_6411.jpeg",
+      "images": []
+    },
+    {
+      "title": "White &amp; Gold Torte",
+      "slug": "white-&-gold-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1737744778_IMG_6754.jpeg",
+      "images": []
+    },
+    {
+      "title": "Wald-Torte",
+      "slug": "wald-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1741361404_IMG_8110.jpeg",
+      "images": []
+    },
+    {
+      "title": "Super-Mario-Torte",
+      "slug": "super-mario-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1764700984_IMG_7353.jpeg",
+      "images": []
+    },
+    {
+      "title": "„Wild One“-Torte",
+      "slug": "„wild-one“-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1733686029_IMG_5193.jpeg",
+      "images": []
+    },
+    {
+      "title": "Musiker-Torte",
+      "slug": "musiker-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1733848016_IMG_5264.jpeg",
+      "images": []
+    },
+    {
+      "title": "Adventstorte mit Kirschen und Spekulatius",
+      "slug": "adventstorte-mit-kirschen-und-spekulatius",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1735220924_IMG_5965.jpeg",
+      "images": []
+    },
+    {
+      "title": "Weihnachts-Torte",
+      "slug": "weihnachts-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1743617932_IMG_8742.jpeg",
+      "images": []
+    },
+    {
+      "title": "Einhorn-Torte",
+      "slug": "einhorn-torte-",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1772791326_IMG_2361.jpeg",
+      "images": []
+    },
+    {
+      "title": "Himbeer-Stracciatella-Torte",
+      "slug": "himbeer-stracciatella-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1737136238_IMG_6521.jpeg",
+      "images": []
+    },
+    {
+      "title": "Ballerina-Torte",
+      "slug": "ballerina-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1768647484_IMG_9522.jpeg",
+      "images": []
+    },
+    {
+      "title": "Kunterbunte Geburtstagstorte",
+      "slug": "kunterbunte-geburtstagstorte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1744094965_IMG_9005.jpeg",
+      "images": []
+    },
+    {
+      "title": "Black, Gold &amp; Silver Cake",
+      "slug": "black,-gold-&-silver-cake",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1740301383_IMG_7804.jpeg",
+      "images": []
+    },
+    {
+      "title": "Erdbeertorte mit Schokoladenbiskuit",
+      "slug": "erdbeertorte-mit-schokoladenbiskuit",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1740840699_IMG_7963.jpeg",
+      "images": []
+    },
+    {
+      "title": "Buch-Torte",
+      "slug": "buch-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1761902422_79C073C5-EF8C-4B6E-B0B8-3FEEED296709.jpeg",
+      "images": []
+    },
+    {
+      "title": "Holzfäller-Torte",
+      "slug": "holzfaeller-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1770111458_IMG_0684.jpeg",
+      "images": []
+    },
+    {
+      "title": "Black &amp; Gold 2.0",
+      "slug": "black-&-gold-2.0",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1755423143_IMG_3515.jpeg",
+      "images": []
+    },
+    {
+      "title": "Butterfly Cake",
+      "slug": "butterfly-cake",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1746304136_IMG_9908.jpeg",
+      "images": []
+    },
+    {
+      "title": "Bueno-Torte",
+      "slug": "bueno-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1746430688_IMG_9991.jpeg",
+      "images": []
+    },
+    {
+      "title": "Happy-Birthday-Torte",
+      "slug": "happy-birthday-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1754216266_91F8DEFD-F393-4536-B673-F57BDD1E2143.jpeg",
+      "images": []
+    },
+    {
+      "title": "Erdbeerkuchen",
+      "slug": "erdbeerkuchen",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1761422642_IMG_6095.jpeg",
+      "images": []
+    },
+    {
+      "title": "Tauftorte",
+      "slug": "tauftorte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1748530310_IMG_0982.jpeg",
+      "images": []
+    },
+    {
+      "title": "Witchcraft Cake",
+      "slug": "witchcraft-cake",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1748629442_IMG_1017.jpeg",
+      "images": []
+    },
+    {
+      "title": "Colourful Cake",
+      "slug": "colourful-cake",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1749233556_IMG_1248.jpeg",
+      "images": []
+    },
+    {
+      "title": "Babyshower-Torte",
+      "slug": "babyshower-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1751031525_IMG_1948.jpeg",
+      "images": []
+    },
+    {
+      "title": "Baby Flower Cake",
+      "slug": "baby-flower-cake",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1751650492_IMG_2133.jpeg",
+      "images": []
+    },
+    {
+      "title": "Mango-Ananas-Torte mit Kokos",
+      "slug": "mango-ananas-torte-mit-kokos",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1768300805_IMG_9194.jpeg",
+      "images": []
+    },
+    {
+      "title": "Flower Cake",
+      "slug": "flower-cake",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1754216425_IMG_2950.jpeg",
+      "images": []
+    },
+    {
+      "title": "Happy-Birthday-Cake",
+      "slug": "happy-birthday-cake",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1755338130_IMG_3410.jpeg",
+      "images": []
+    },
+    {
+      "title": "Schokoladen-Torte mit Früchten",
+      "slug": "schokoladen-torte-mit-fruechten",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1755422824_IMG_3471.jpeg",
+      "images": []
+    },
+    {
+      "title": "Herztorte zur Babyparty",
+      "slug": "herztorte-zur-babyparty",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1756452151_IMG_4038.jpeg",
+      "images": []
+    },
+    {
+      "title": "König-der-Löwen-Torte",
+      "slug": "koenig-der-loewen-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1755941080_IMG_3810.jpeg",
+      "images": []
+    },
+    {
+      "title": "Bluey-Torte",
+      "slug": "bluey-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1757421173_IMG_4441.jpeg",
+      "images": []
+    },
+    {
+      "title": "Perlen-Torte",
+      "slug": "perlen-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1772133047_IMG_1971.jpeg",
+      "images": []
+    },
+    {
+      "title": "Haselnuss-Torte mit Preiselbeeren",
+      "slug": "haselnuss-torte-mit-preiselbeeren",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1758009282_IMG_4800.jpeg",
+      "images": []
+    },
+    {
+      "title": "Safari-Torte",
+      "slug": "safari-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1768300921_IMG_9325.jpeg",
+      "images": []
+    },
+    {
+      "title": "Disco-Torte",
+      "slug": "disco-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1760867530_IMG_5964.jpeg",
+      "images": []
+    },
+    {
+      "title": "Herbst-Torte",
+      "slug": "herbst-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1761898926_IMG_6237.jpeg",
+      "images": []
+    },
+    {
+      "title": "Halloween-Torte",
+      "slug": "halloween-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1766784637_IMG_8899.jpeg",
+      "images": []
+    },
+    {
+      "title": "Greenery Tauftorte",
+      "slug": "greenery-tauftorte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1763111220_IMG_6614.jpeg",
+      "images": []
+    },
+    {
+      "title": "Princess-Torte",
+      "slug": "princess-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1763395870_IMG_6788.jpeg",
+      "images": []
+    },
+    {
+      "title": "Torte mit Herzchen",
+      "slug": "torte-mit-herzchen",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1764266935_IMG_7244.jpeg",
+      "images": []
+    },
+    {
+      "title": "Spiderman-Torte",
+      "slug": "spiderman-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1764700849_IMG_7301.jpeg",
+      "images": []
+    },
+    {
+      "title": "Asbach-Uralt-Torte",
+      "slug": "asbach-uralt-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1765016258_IMG_7659.jpeg",
+      "images": []
+    },
+    {
+      "title": "Winter-Torte",
+      "slug": "winter-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1765018342_IMG_7729.jpeg",
+      "images": []
+    },
+    {
+      "title": "80s &amp; 90s Revival Cake",
+      "slug": "80s-&-90s-revival-cake",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1770489438_IMG_0769.jpeg",
+      "images": []
+    },
+    {
+      "title": "Black &amp; Silver Cake",
+      "slug": "black-&-silver-cake",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1765536098_IMG_7933.jpeg",
+      "images": []
+    },
+    {
+      "title": "Peppa-Geburtstagstorte",
+      "slug": "peppa-geburtstagstorte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1772132830_IMG_2006.jpeg",
+      "images": []
+    },
+    {
+      "title": "Greenery Geburtstagstorte",
+      "slug": "greenery-geburtstagstorte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1765651809_IMG_7987.jpeg",
+      "images": []
+    },
+    {
+      "title": "Candy Cake",
+      "slug": "candy-cake",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1765884797_IMG_8258.jpeg",
+      "images": []
+    },
+    {
+      "title": "Geburtstagstorte für Zwillinge",
+      "slug": "geburtstagstorte-fuer-zwillinge-",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1766226690_IMG_8376.jpeg",
+      "images": []
+    },
+    {
+      "title": "Ombré-Torte Königsblau",
+      "slug": "ombre-torte-koenigsblau",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1766606442_IMG_8582.jpeg",
+      "images": []
+    },
+    {
+      "title": "Weihnachtstorte mit Orange &amp; Zitrone",
+      "slug": "weihnachtstorte-mit-orange-&-zitrone",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1769884190_IMG_0557.jpeg",
+      "images": []
+    },
+    {
+      "title": "Purple Ombré Flower Cake",
+      "slug": "purple-ombre-flower-cake",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1768647397_IMG_9512.jpeg",
+      "images": []
+    },
+    {
+      "title": "Exotic Flower Cake",
+      "slug": "exotic-flower-cake",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1771174653_IMG_1532.jpeg",
+      "images": []
+    },
+    {
+      "title": "Pokémon-Torte",
+      "slug": "pokemon-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1771607823_IMG_1717.jpeg",
+      "images": []
+    },
+    {
+      "title": "Waferpaper-Torte",
+      "slug": "waferpaper-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1771943880_IMG_1891.jpeg",
+      "images": []
+    },
+    {
+      "title": "Birthday Queen‘s Cake",
+      "slug": "birthday-queen‘s-cake",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1772219552_IMG_2044.jpeg",
+      "images": []
+    },
+    {
+      "title": "Confetti Cake",
+      "slug": "confetti-cake",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1773132446_IMG_2669.jpeg",
+      "images": []
+    },
+    {
+      "title": "Silver &amp; Blue Cake",
+      "slug": "silver-&-blue-cake",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1773479044_IMG_2752.jpeg",
+      "images": []
+    },
+    {
+      "title": "Feen-Torte",
+      "slug": "feen-torte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "torten-und-toertchen",
+        "title": "Torten & Törtchen"
+      },
+      "thumbnailUrl": null,
+      "images": []
+    },
+    {
+      "title": "Hochzeitstorte à la Mousse au Chocolat",
+      "slug": "hochzeitstorte-a-la-mousse-au-chocolat-",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "hochzeitstorten",
+        "title": "Hochzeitstorten"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1746087962_IMG_0691.jpeg",
+      "images": []
+    },
+    {
+      "title": "Hochzeitstorte „Blumenwiese“",
+      "slug": "hochzeitstorte-„blumenwiese“",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "hochzeitstorten",
+        "title": "Hochzeitstorten"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1695376200_IMG_0632.jpeg",
+      "images": []
+    },
+    {
+      "title": "Eure ganz persönliche Hochzeitstorte",
+      "slug": "eure-ganz-persoenliche-hochzeitstorte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "hochzeitstorten",
+        "title": "Hochzeitstorten"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1754070141_IMG_2898.jpeg",
+      "images": []
+    },
+    {
+      "title": "Hochzeitstorte „Beerentraum“",
+      "slug": "hochzeitstorte-„beerentraum“",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "hochzeitstorten",
+        "title": "Hochzeitstorten"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1717697926_IMG_7743.jpeg",
+      "images": []
+    },
+    {
+      "title": "Hochzeits-Tortentraum",
+      "slug": "hochzeits-tortentraum",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "hochzeitstorten",
+        "title": "Hochzeitstorten"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1733565259_IMG_5164.jpeg",
+      "images": []
+    },
+    {
+      "title": "Kleine feine Hochzeitstorte",
+      "slug": "kleine-feine-hochzeitstorte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "hochzeitstorten",
+        "title": "Hochzeitstorten"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1752327721_IMG_2418.jpeg",
+      "images": []
+    },
+    {
+      "title": "White Pearls",
+      "slug": "white-pearls",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "hochzeitstorten",
+        "title": "Hochzeitstorten"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1715419310_BCB5E578-1209-47F3-9536-4ED185659554.jpeg",
+      "images": []
+    },
+    {
+      "title": "Gugelhupf-Hochzeitstorte",
+      "slug": "gugelhupf-hochzeitstorte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "hochzeitstorten",
+        "title": "Hochzeitstorten"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1728667033_IMG_3161.jpeg",
+      "images": []
+    },
+    {
+      "title": "Hochzeitstorte im Ombré-Look",
+      "slug": "hochzeitstorte-im-ombre-look",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "hochzeitstorten",
+        "title": "Hochzeitstorten"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1770489339_IMG_0908.jpeg",
+      "images": []
+    },
+    {
+      "title": "Hochzeitstorte mit Blattgold",
+      "slug": "hochzeitstorte-mit-blattgold",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "hochzeitstorten",
+        "title": "Hochzeitstorten"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1721406011_IMG_9395.jpeg",
+      "images": []
+    },
+    {
+      "title": "Erdbeerkuchen mit Vanillecreme",
+      "slug": "erdbeerkuchen-mit-vanillecreme",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "hochzeitstorten",
+        "title": "Hochzeitstorten"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1727980385_IMG_2849.jpeg",
+      "images": []
+    },
+    {
+      "title": "Peach Ombré Hochzeitstorte",
+      "slug": "peach-ombre-hochzeitstorte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "hochzeitstorten",
+        "title": "Hochzeitstorten"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1720807775_162204CB-CC04-4706-94FF-6E69232CAEB5.jpeg",
+      "images": []
+    },
+    {
+      "title": "Dreistöckiger Beerentraum",
+      "slug": "dreistoeckiger-beerentraum",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "hochzeitstorten",
+        "title": "Hochzeitstorten"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1745566901_IMG_4403.jpeg",
+      "images": []
+    },
+    {
+      "title": "Vierstöckige Hochzeitstorte",
+      "slug": "vierstoeckige-hochzeitstorte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "hochzeitstorten",
+        "title": "Hochzeitstorten"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1768475593_IMG_5536.jpeg",
+      "images": []
+    },
+    {
+      "title": "Greenery Hochzeitstorte",
+      "slug": "greenery-hochzeitstorte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "hochzeitstorten",
+        "title": "Hochzeitstorten"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1746083195_IMG_9738.jpeg",
+      "images": []
+    },
+    {
+      "title": "Dreistöckige Hochzeitstorte half-naked",
+      "slug": "dreistoeckige-hochzeitstorte-half-naked",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "hochzeitstorten",
+        "title": "Hochzeitstorten"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1726850712_IMG_2267.jpeg",
+      "images": []
+    },
+    {
+      "title": "Herbst-Hochzeitstorte",
+      "slug": "herbst-hochzeitstorte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "hochzeitstorten",
+        "title": "Hochzeitstorten"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1726902772_IMG_2289.jpeg",
+      "images": []
+    },
+    {
+      "title": "Dreistöckige Hochzeitstorte mit Trockenblumen",
+      "slug": "dreistoeckige-hochzeitstorte-mit-trockenblumen-",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "hochzeitstorten",
+        "title": "Hochzeitstorten"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1729238863_IMG_3363.jpeg",
+      "images": []
+    },
+    {
+      "title": "Individuelle Hochzeitstorte",
+      "slug": "individuelle-hochzeitstorte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "hochzeitstorten",
+        "title": "Hochzeitstorten"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1734768763_IMG_5637.jpeg",
+      "images": []
+    },
+    {
+      "title": "Winter-Hochzeitstorte",
+      "slug": "winter-hochzeitstorte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "hochzeitstorten",
+        "title": "Hochzeitstorten"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1754070417_IMG_2854.jpeg",
+      "images": []
+    },
+    {
+      "title": "Green &amp; Silver Hochzeitstorte",
+      "slug": "green-&-silver-hochzeitstorte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "hochzeitstorten",
+        "title": "Hochzeitstorten"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1750917473_IMG_1866.jpeg",
+      "images": []
+    },
+    {
+      "title": "White &amp; Gold Hochzeitstorte",
+      "slug": "white-&-gold-hochzeitstorte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "hochzeitstorten",
+        "title": "Hochzeitstorten"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1739638347_IMG_7561.jpeg",
+      "images": []
+    },
+    {
+      "title": "Green &amp; Gold",
+      "slug": "green-&-gold-",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "hochzeitstorten",
+        "title": "Hochzeitstorten"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1749233835_IMG_1236.jpeg",
+      "images": []
+    },
+    {
+      "title": "Die etwas andere Hochzeitstorte",
+      "slug": "die-etwas-andere-hochzeitstorte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "hochzeitstorten",
+        "title": "Hochzeitstorten"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1750407157_IMG_1712.jpeg",
+      "images": []
+    },
+    {
+      "title": "Colourful Wedding Cake",
+      "slug": "colourful-wedding-cake",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "hochzeitstorten",
+        "title": "Hochzeitstorten"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1750788882_8FB5D023-B967-4B70-9D55-7516D34BB4BE.jpeg",
+      "images": []
+    },
+    {
+      "title": "Yellow &amp; Blue",
+      "slug": "yellow-&-blue",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "hochzeitstorten",
+        "title": "Hochzeitstorten"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1752914562_IMG_2575.jpeg",
+      "images": []
+    },
+    {
+      "title": "Hochzeitstorte Black &amp; White",
+      "slug": "hochzeitstorte-black-&-white",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "hochzeitstorten",
+        "title": "Hochzeitstorten"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1754070653_IMG_2811.jpeg",
+      "images": []
+    },
+    {
+      "title": "Mediterrane Hochzeitstorte",
+      "slug": "mediterrane-hochzeitstorte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "hochzeitstorten",
+        "title": "Hochzeitstorten"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1754731176_IMG_3181.jpeg",
+      "images": []
+    },
+    {
+      "title": "Elegante Hochzeitstorte",
+      "slug": "elegante-hochzeitstorte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "hochzeitstorten",
+        "title": "Hochzeitstorten"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1754731879_IMG_3139.jpeg",
+      "images": []
+    },
+    {
+      "title": "Half-naked Hochzeitstorte mit euren Blüten",
+      "slug": "half-naked-hochzeitstorte-mit-euren-blueten",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "hochzeitstorten",
+        "title": "Hochzeitstorten"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1755663820_IMG_3681.jpeg",
+      "images": []
+    },
+    {
+      "title": "White &amp; Clean Wedding Cake",
+      "slug": "white-&-clean-wedding-cake",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "hochzeitstorten",
+        "title": "Hochzeitstorten"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1760175447_IMG_5618.jpeg",
+      "images": []
+    },
+    {
+      "title": "Violet Ombré Hochzeitstorte",
+      "slug": "violet-ombre-hochzeitstorte",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "hochzeitstorten",
+        "title": "Hochzeitstorten"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1760777517_IMG_5793.jpeg",
+      "images": []
+    },
+    {
+      "title": "Hochzeitstorte mit Kürbis &amp; Co.",
+      "slug": "hochzeitstorte-mit-kuerbis-&-co.",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "hochzeitstorten",
+        "title": "Hochzeitstorten"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1772219992_IMG_2058.jpeg",
+      "images": []
+    },
+    {
+      "title": "Hochzeitstorte in Petrol",
+      "slug": "hochzeitstorte-in-petrol",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "hochzeitstorten",
+        "title": "Hochzeitstorten"
+      },
+      "thumbnailUrl": null,
+      "images": []
+    },
+    {
+      "title": "Schokoladen-Mandel-Striezel",
+      "slug": "schokoladen-mandel-striezel",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "flaumiges-hefegebaeck",
+        "title": "Flaumiges Hefegebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-26-1622066557.jpeg",
+      "images": []
+    },
+    {
+      "title": "Apfel-Marzipan-Striezel mit Pistazien",
+      "slug": "apfel-marzipan-striezel",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "flaumiges-hefegebaeck",
+        "title": "Flaumiges Hefegebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1637103715_8240614A-B952-452F-AB52-70C298043724.jpeg",
+      "images": []
+    },
+    {
+      "title": "Walnuss-Marzipan-Striezel",
+      "slug": "walnuss-marzipan-striezel",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "flaumiges-hefegebaeck",
+        "title": "Flaumiges Hefegebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1667046090_F8610F2B-F3FC-4AEE-A78E-B008902C079F.jpeg",
+      "images": []
+    },
+    {
+      "title": "Cinnamon Rolls aka Zimtschnecken",
+      "slug": "cinnamon-rolls",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "flaumiges-hefegebaeck",
+        "title": "Flaumiges Hefegebäck"
+      },
+      "thumbnailUrl": null,
+      "images": []
+    },
+    {
+      "title": "Eierlikörkuchen",
+      "slug": "eierlikoerkuchen",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "kuchen-und-muffins",
+        "title": "Kuchen, Muffins & Cupcakes"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1710076330_IMG_4790.jpeg",
+      "images": []
+    },
+    {
+      "title": "Nusskuchen mit Zimtglasur",
+      "slug": "nusskuchen-mit-zimtglasur",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "kuchen-und-muffins",
+        "title": "Kuchen, Muffins & Cupcakes"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-80-1622066574.jpeg",
+      "images": []
+    },
+    {
+      "title": "Mini-Amerikaner",
+      "slug": "mini-amerikaner",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "kuchen-und-muffins",
+        "title": "Kuchen, Muffins & Cupcakes"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1761473855_IMG_4702.jpeg",
+      "images": []
+    },
+    {
+      "title": "Mamas Apfelkuchen",
+      "slug": "mamas-apfelkuchen",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "kuchen-und-muffins",
+        "title": "Kuchen, Muffins & Cupcakes"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-99-1622066582.jpeg",
+      "images": []
+    },
+    {
+      "title": "Rübli-Muffins",
+      "slug": "ruebli-muffins",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "kuchen-und-muffins",
+        "title": "Kuchen, Muffins & Cupcakes"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-106-1622066585.jpeg",
+      "images": []
+    },
+    {
+      "title": "Käseküchlein mit Mandel-Zuckerkruste",
+      "slug": "käseküchlein-mit-mandel-zuckerkruste",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "kuchen-und-muffins",
+        "title": "Kuchen, Muffins & Cupcakes"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1660998470_EE043EAB-1FB1-4F6F-B07B-346F1F9DED4F.jpeg",
+      "images": []
+    },
+    {
+      "title": "Choco Peanut Cheesecake",
+      "slug": "choco-peanut-cheesecake-",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "kuchen-und-muffins",
+        "title": "Kuchen, Muffins & Cupcakes"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1663413400_54C837DE-157E-4F7D-A00A-667DDCAD4E8C.jpeg",
+      "images": []
+    },
+    {
+      "title": "Choco Muffins",
+      "slug": "choco-muffins",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "kuchen-und-muffins",
+        "title": "Kuchen, Muffins & Cupcakes"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1684667302_IMG_7477.jpeg",
+      "images": []
+    },
+    {
+      "title": "Erdbeer-Schokoladen-Cupcakes",
+      "slug": "erdbeer-schokoladen-cupcakes",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "kuchen-und-muffins",
+        "title": "Kuchen, Muffins & Cupcakes"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1758437513_IMG_4982.jpeg",
+      "images": []
+    },
+    {
+      "title": "Mango-Kokos-Cupcakes",
+      "slug": "mango-kokos-cupcakes",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "kuchen-und-muffins",
+        "title": "Kuchen, Muffins & Cupcakes"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1717857702_B5207404-67C0-4624-9511-70EE7D0FA739.jpeg",
+      "images": []
+    },
+    {
+      "title": "Himbeer-Zitronen-Cupcakes",
+      "slug": "himbeer-zitronen-cupcakes",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "kuchen-und-muffins",
+        "title": "Kuchen, Muffins & Cupcakes"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1772273893_IMG_2098.jpeg",
+      "images": []
+    },
+    {
+      "title": "Tartelettes",
+      "slug": "tartelettes",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "kuchen-und-muffins",
+        "title": "Kuchen, Muffins & Cupcakes"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1719763898_DD989BF3-8CF2-4AD4-834C-563316C2BAE1.jpeg",
+      "images": []
+    },
+    {
+      "title": "Blechkuchen mit Mandel-Zuckerkruste",
+      "slug": "blechkuchen-mit-mandel-zuckerkruste",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "kuchen-und-muffins",
+        "title": "Kuchen, Muffins & Cupcakes"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1693654229_IMG_0068.jpeg",
+      "images": []
+    },
+    {
+      "title": "Apfel-Zimt-Cupcakes",
+      "slug": "apfel-zimt-cupcakes",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "kuchen-und-muffins",
+        "title": "Kuchen, Muffins & Cupcakes"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1694260362_IMG_0242.jpeg",
+      "images": []
+    },
+    {
+      "title": "Pink Choco Cupcakes",
+      "slug": "pink-choco-cupcakes",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "kuchen-und-muffins",
+        "title": "Kuchen, Muffins & Cupcakes"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1770490653_IMG_1021.jpeg",
+      "images": []
+    },
+    {
+      "title": "Choco Lemon Cupcakes",
+      "slug": "choco-lemon-cupcakes",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "kuchen-und-muffins",
+        "title": "Kuchen, Muffins & Cupcakes"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1766832728_IMG_8833.jpeg",
+      "images": []
+    },
+    {
+      "title": "Christstollen",
+      "slug": "christstollen",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "kuchen-und-muffins",
+        "title": "Kuchen, Muffins & Cupcakes"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1768500240_IMG_9445.jpeg",
+      "images": []
+    },
+    {
+      "title": "Rübli-Cupcakes mit Lemon-Frosting",
+      "slug": "ruebli-cupcakes-mit-lemon-frosting",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "kuchen-und-muffins",
+        "title": "Kuchen, Muffins & Cupcakes"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1772274054_IMG_2113.jpeg",
+      "images": []
+    },
+    {
+      "title": "Choco Cupcakes",
+      "slug": "choco-cupcakes",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "kuchen-und-muffins",
+        "title": "Kuchen, Muffins & Cupcakes"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1720531052_IMG_9111.jpeg",
+      "images": []
+    },
+    {
+      "title": "Apfel-Cupcakes „Fantakuchen“",
+      "slug": "apfel-cupcakes-„fantakuchen“",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "kuchen-und-muffins",
+        "title": "Kuchen, Muffins & Cupcakes"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1758437237_IMG_4985.jpeg",
+      "images": []
+    },
+    {
+      "title": "Lemon Cupcakes",
+      "slug": "lemon-cupcakes",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "kuchen-und-muffins",
+        "title": "Kuchen, Muffins & Cupcakes"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1724585147_IMG_0880.jpeg",
+      "images": []
+    },
+    {
+      "title": "Waldbeer-Choco-Cupcakes",
+      "slug": "waldbeer-choco-cupcakes",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "kuchen-und-muffins",
+        "title": "Kuchen, Muffins & Cupcakes"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1729956818_IMG_3623.jpeg",
+      "images": []
+    },
+    {
+      "title": "Cupcake-Variation auf Étagêre",
+      "slug": "cupcake-variation-auf-etagêre",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "kuchen-und-muffins",
+        "title": "Kuchen, Muffins & Cupcakes"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1741540039_IMG_8148.jpeg",
+      "images": []
+    },
+    {
+      "title": "Haselnuss-Cupcakes",
+      "slug": "haselnuss-cupcakes",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "kuchen-und-muffins",
+        "title": "Kuchen, Muffins & Cupcakes"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1742112114_IMG_8332.jpeg",
+      "images": []
+    },
+    {
+      "title": "Cupcake-Variationen",
+      "slug": "cupcake-variationen-",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "kuchen-und-muffins",
+        "title": "Kuchen, Muffins & Cupcakes"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1759853098_IMG_5482.jpeg",
+      "images": []
+    },
+    {
+      "title": "Klassischer Apfelkuchen mit Butterstreuseln",
+      "slug": "klassischer-apfelkuchen-mit-butterstreuseln",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "kuchen-und-muffins",
+        "title": "Kuchen, Muffins & Cupcakes"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1766606066_IMG_8601.jpeg",
+      "images": []
+    },
+    {
+      "title": "Christmas Cupcakes",
+      "slug": "christmas-cupcakes",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "kuchen-und-muffins",
+        "title": "Kuchen, Muffins & Cupcakes"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1768500802_IMG_9471.jpeg",
+      "images": []
+    },
+    {
+      "title": "Espresso-Cupcakes",
+      "slug": "espresso-cupcakes",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "kuchen-und-muffins",
+        "title": "Kuchen, Muffins & Cupcakes"
+      },
+      "thumbnailUrl": null,
+      "images": []
+    },
+    {
+      "title": "Kokosecken",
+      "slug": "kokosecken",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "plaetzchen-kekse-und-kleingebaeck",
+        "title": "Plätzchen, Kekse & Kleingebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1732481316_IMG_4605.jpeg",
+      "images": []
+    },
+    {
+      "title": "Nussecken",
+      "slug": "nussecken",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "plaetzchen-kekse-und-kleingebaeck",
+        "title": "Plätzchen, Kekse & Kleingebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1640347503_26151B5B-7E3D-4D4A-BAE6-D26F9D0EAE9A.jpeg",
+      "images": []
+    },
+    {
+      "title": "Blätterteig-Spekulatius-Teilchen",
+      "slug": "blätterteig-spekulatius-teilchen",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "plaetzchen-kekse-und-kleingebaeck",
+        "title": "Plätzchen, Kekse & Kleingebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1763974049_IMG_7094.jpeg",
+      "images": []
+    },
+    {
+      "title": "Erdnussbutter-Kugeln",
+      "slug": "erdnussbutter-kugeln",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "plaetzchen-kekse-und-kleingebaeck",
+        "title": "Plätzchen, Kekse & Kleingebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1765884849_IMG_8142.jpeg",
+      "images": []
+    },
+    {
+      "title": "Gefüllte Marmeladenplätzchen",
+      "slug": "gefuellte-marmeladenplätzchen",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "plaetzchen-kekse-und-kleingebaeck",
+        "title": "Plätzchen, Kekse & Kleingebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1731343271_IMG_4206.jpeg",
+      "images": []
+    },
+    {
+      "title": "Gefüllte Kakao-Marmeladenplätzchen",
+      "slug": "gefuellte-kakao-marmeladenplaetzchen",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "plaetzchen-kekse-und-kleingebaeck",
+        "title": "Plätzchen, Kekse & Kleingebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1635932827_6F055A29-95F1-49E8-8EBB-9ED2B5A1A32A.jpeg",
+      "images": []
+    },
+    {
+      "title": "Haselnuss-Spritzgebäck",
+      "slug": "haselnuss-spritzgebaeck",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "plaetzchen-kekse-und-kleingebaeck",
+        "title": "Plätzchen, Kekse & Kleingebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1763974128_IMG_7099.jpeg",
+      "images": []
+    },
+    {
+      "title": "Zimtschnecken-Plätzchen",
+      "slug": "zimtschnecken-plaetzchen",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "plaetzchen-kekse-und-kleingebaeck",
+        "title": "Plätzchen, Kekse & Kleingebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1733405650_IMG_5091.jpeg",
+      "images": []
+    },
+    {
+      "title": "Mini-Nusshörnchen",
+      "slug": "mini-nusshoernchen",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "plaetzchen-kekse-und-kleingebaeck",
+        "title": "Plätzchen, Kekse & Kleingebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1637103461_45B980AE-3E0B-4E42-ABB5-5D4CB5CC99F7.jpeg",
+      "images": []
+    },
+    {
+      "title": "Zimtsterne",
+      "slug": "zimtsterne",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "plaetzchen-kekse-und-kleingebaeck",
+        "title": "Plätzchen, Kekse & Kleingebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1635932793_13CC9295-DF81-4048-A59A-27DA92D1298A.jpeg",
+      "images": []
+    },
+    {
+      "title": "Gefüllte Kakaokugeln mit Haselnüssen",
+      "slug": "gefuellte-kakaokugeln-mit-haselnüssen",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "plaetzchen-kekse-und-kleingebaeck",
+        "title": "Plätzchen, Kekse & Kleingebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1730542247_IMG_3715.jpeg",
+      "images": []
+    },
+    {
+      "title": "Cashew-Erdnuss-Karamellstangen",
+      "slug": "cashew-erdnuss-karamellstangen",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "plaetzchen-kekse-und-kleingebaeck",
+        "title": "Plätzchen, Kekse & Kleingebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1763974212_IMG_6877.jpeg",
+      "images": []
+    },
+    {
+      "title": "Piña-Colada-Makronen",
+      "slug": "pina-colada-makronen",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "plaetzchen-kekse-und-kleingebaeck",
+        "title": "Plätzchen, Kekse & Kleingebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1732009354_IMG_4538.jpeg",
+      "images": []
+    },
+    {
+      "title": "Gefüllte Honig-Cookies",
+      "slug": "gefuellte-honig-cookies",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "plaetzchen-kekse-und-kleingebaeck",
+        "title": "Plätzchen, Kekse & Kleingebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1730542297_IMG_3886.jpeg",
+      "images": []
+    },
+    {
+      "title": "Klassische Butterplätzchen nach Oma",
+      "slug": "butterplaetzchen",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "plaetzchen-kekse-und-kleingebaeck",
+        "title": "Plätzchen, Kekse & Kleingebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1765884947_IMG_8159.jpeg",
+      "images": []
+    },
+    {
+      "title": "Haselnusscreme-Plätzchen",
+      "slug": "haselnusscreme-plaetzchen",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "plaetzchen-kekse-und-kleingebaeck",
+        "title": "Plätzchen, Kekse & Kleingebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1635932725_C71331E0-6215-4E16-ADA1-6B668A277B7B.jpeg",
+      "images": []
+    },
+    {
+      "title": "Marzipan-Pistazien-Taler",
+      "slug": "marzipan-pistazien-plaetzchen",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "plaetzchen-kekse-und-kleingebaeck",
+        "title": "Plätzchen, Kekse & Kleingebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1637341340_B8032A97-E25A-4800-9579-9759A9417CC9.jpeg",
+      "images": []
+    },
+    {
+      "title": "Stracciatella-Kokosmakronen",
+      "slug": "stracciatella-kokosmakronen",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "plaetzchen-kekse-und-kleingebaeck",
+        "title": "Plätzchen, Kekse & Kleingebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1763974272_IMG_7083.jpeg",
+      "images": []
+    },
+    {
+      "title": "Gefüllte Orangenplätzchen",
+      "slug": "gefuellte-orangenplaetzchen",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "plaetzchen-kekse-und-kleingebaeck",
+        "title": "Plätzchen, Kekse & Kleingebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1730542442_IMG_3875.jpeg",
+      "images": []
+    },
+    {
+      "title": "Licor-43-Kringel",
+      "slug": "licor-43-kringel",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "plaetzchen-kekse-und-kleingebaeck",
+        "title": "Plätzchen, Kekse & Kleingebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1763974335_IMG_7070.jpeg",
+      "images": []
+    },
+    {
+      "title": "Zitronentaler",
+      "slug": "zitronentaler",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "plaetzchen-kekse-und-kleingebaeck",
+        "title": "Plätzchen, Kekse & Kleingebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1765884996_IMG_8164.jpeg",
+      "images": []
+    },
+    {
+      "title": "Aprikosenwölkchen",
+      "slug": "aprikosenwölkchen",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "plaetzchen-kekse-und-kleingebaeck",
+        "title": "Plätzchen, Kekse & Kleingebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1731343043_IMG_4189.jpeg",
+      "images": []
+    },
+    {
+      "title": "Biscotti con cioccolato e pinoli",
+      "slug": "biscotti-con-cioccolato-e-pinoli",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "plaetzchen-kekse-und-kleingebaeck",
+        "title": "Plätzchen, Kekse & Kleingebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1763974389_IMG_7104.jpeg",
+      "images": []
+    },
+    {
+      "title": "Mandel-Cranberry-Taler",
+      "slug": "mandel -cranberry-taler",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "plaetzchen-kekse-und-kleingebaeck",
+        "title": "Plätzchen, Kekse & Kleingebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1635932469_54357ED3-C9F3-49D5-9C77-2E92E72A85D3.jpeg",
+      "images": []
+    },
+    {
+      "title": "Cranberry-Pistazien-Taler",
+      "slug": "cranberry-pistazien-taler",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "plaetzchen-kekse-und-kleingebaeck",
+        "title": "Plätzchen, Kekse & Kleingebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1763974443_IMG_7109.jpeg",
+      "images": []
+    },
+    {
+      "title": "Walnuss-Taler",
+      "slug": "walnuss-taler",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "plaetzchen-kekse-und-kleingebaeck",
+        "title": "Plätzchen, Kekse & Kleingebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1730542736_IMG_3696.jpeg",
+      "images": []
+    },
+    {
+      "title": "Latte-Macchiato-Plätzchen",
+      "slug": "latte-macchiato-plaetzchen",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "plaetzchen-kekse-und-kleingebaeck",
+        "title": "Plätzchen, Kekse & Kleingebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1765885074_IMG_8171.jpeg",
+      "images": []
+    },
+    {
+      "title": "Vanillekipferl",
+      "slug": "vanillekipferl",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "plaetzchen-kekse-und-kleingebaeck",
+        "title": "Plätzchen, Kekse & Kleingebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1732481365_IMG_4618.jpeg",
+      "images": []
+    },
+    {
+      "title": "Kern-Ecken",
+      "slug": "kern-ecken",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "plaetzchen-kekse-und-kleingebaeck",
+        "title": "Plätzchen, Kekse & Kleingebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1730542869_IMG_3711.jpeg",
+      "images": []
+    },
+    {
+      "title": "Erdnusshappen",
+      "slug": "erdnusshappen",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "plaetzchen-kekse-und-kleingebaeck",
+        "title": "Plätzchen, Kekse & Kleingebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1637103688_0E4FDAF7-7FDD-4E9E-B6FE-A0558C9AE32D.jpeg",
+      "images": []
+    },
+    {
+      "title": "Walnuss-Zimtherzen",
+      "slug": "walnuss-zimtherzen",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "plaetzchen-kekse-und-kleingebaeck",
+        "title": "Plätzchen, Kekse & Kleingebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1731343124_IMG_4181.jpeg",
+      "images": []
+    },
+    {
+      "title": "Tropical Coconut Bites",
+      "slug": "tropical-coconut-bites",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "plaetzchen-kekse-und-kleingebaeck",
+        "title": "Plätzchen, Kekse & Kleingebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1638021047_6C2C148D-FDC9-44D5-AB09-8D9E14A98332.jpeg",
+      "images": []
+    },
+    {
+      "title": "Black Mint Cranberry Crossies",
+      "slug": "black-mint-cranberry-crossies-",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "plaetzchen-kekse-und-kleingebaeck",
+        "title": "Plätzchen, Kekse & Kleingebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1731343184_IMG_4176.jpeg",
+      "images": []
+    },
+    {
+      "title": "White Cranberry Crossies",
+      "slug": "white-cranberry-crossies-",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "plaetzchen-kekse-und-kleingebaeck",
+        "title": "Plätzchen, Kekse & Kleingebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1638127822_51F2AD77-BF74-438B-BCD3-7CB2BEF42318.jpeg",
+      "images": []
+    },
+    {
+      "title": "Orange Crinkle Cookies",
+      "slug": "orange-crinkle-cookies",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "plaetzchen-kekse-und-kleingebaeck",
+        "title": "Plätzchen, Kekse & Kleingebäck"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1732547964_IMG_4762.jpeg",
+      "images": []
+    },
+    {
+      "title": "Florentiner",
+      "slug": "florentiner",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "plaetzchen-kekse-und-kleingebaeck",
+        "title": "Plätzchen, Kekse & Kleingebäck"
+      },
+      "thumbnailUrl": null,
+      "images": []
+    },
+    {
+      "title": "Spekulatius-Cake-Pops",
+      "slug": "spekulatius-cake-pops",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "cake-pops",
+        "title": "Cake Pops"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1684084624_IMG_7316.jpeg",
+      "images": []
+    },
+    {
+      "title": "Lemon Cake Pops",
+      "slug": "lemon-cake-pops",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "cake-pops",
+        "title": "Cake Pops"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1628027362_AE35FF94-50EC-43BC-83C2-48FEF56B901B.jpeg",
+      "images": []
+    },
+    {
+      "title": "Coconut Cake Pops",
+      "slug": "coconut-cake-pops",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "cake-pops",
+        "title": "Cake Pops"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1683635251_IMG_7207.jpeg",
+      "images": []
+    },
+    {
+      "title": "Nougat Cake Pops mit Marzipan",
+      "slug": "nougat-cake-pops-mit-marzipan-",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "cake-pops",
+        "title": "Cake Pops"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1759353299_IMG_5396.jpeg",
+      "images": []
+    },
+    {
+      "title": "Himbeer-Cake-Pops",
+      "slug": "himbeer-cake-pops",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "cake-pops",
+        "title": "Cake Pops"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1691340970_IMG_9299.jpeg",
+      "images": []
+    },
+    {
+      "title": "Frozen Cake Pops",
+      "slug": "frozen-cake-pops",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "cake-pops",
+        "title": "Cake Pops"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1729095663_IMG_3321.jpeg",
+      "images": []
+    },
+    {
+      "title": "Berry Cake Pops",
+      "slug": "berry-cake-pops",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "cake-pops",
+        "title": "Cake Pops"
+      },
+      "thumbnailUrl": "https://franzis-fabelhafte-toertchen.de/storage/uploads/thumbnails/thumbnail-1760777750_IMG_5818.jpeg",
+      "images": []
+    },
+    {
+      "title": "Orange Cake Pops",
+      "slug": "orange-cake-pops-",
+      "teaser": "",
+      "description": "",
+      "category": {
+        "slug": "cake-pops",
+        "title": "Cake Pops"
+      },
+      "thumbnailUrl": null,
+      "images": []
+    }
+  ]
+}

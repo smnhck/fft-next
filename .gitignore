@@ -26,7 +26,12 @@ yarn-debug.log*
 yarn-error.log*
 
 # local env files
+.env
 .env*.local
+
+# MCP config (contains API tokens)
+.mcp.json
+settings.local.json
 
 # vercel
 .vercel
@@ -34,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# log files
+*.log
+
+# migration files
+/migration/*
